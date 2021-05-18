@@ -1,4 +1,3 @@
-
 # Cria uma VM no Google Cloud
 resource "google_compute_instance" "firstvm" {
   name         = "website"
